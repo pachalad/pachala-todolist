@@ -22,6 +22,7 @@ The itemlistmanager and itemlist controller names were inspired by Abram Hindle'
 
 The itemlongclick method from mainactivity and archiveactivity was adapted from 
 http://stackoverflow.com/questions/8846707/how-to-implement-a-long-click-listener-on-a-listview
+by Dinesh Sharma
 
 The dialog and any other dialog buttons were adapted from
 http://developer.android.com/guide/topics/ui/dialogs.html
@@ -31,6 +32,7 @@ Code taken and modified from https://developer.android.com/training/basics/actio
 
 Setting up the intents to send to an email app from the emailactivity was adapted from
 http://stackoverflow.com/questions/2197741/how-can-i-send-emails-from-my-android-application
+by fiXedd
 
 The saving and loading from a file. The template and methods was used from
 http://developer.android.com/training/basics/data-storage/files.html

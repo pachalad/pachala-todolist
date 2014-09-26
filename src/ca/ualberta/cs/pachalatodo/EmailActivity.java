@@ -144,6 +144,7 @@ public class EmailActivity extends Activity
 		SparseBooleanArray chosenItems=listView.getCheckedItemPositions();
 		// This below code was adapted from
 		// http://stackoverflow.com/questions/2197741/how-can-i-send-emails-from-my-android-application
+		// by fiXedd.
 		Intent intent = new Intent(Intent.ACTION_SEND);
 		intent.setType("message/rfc822");
 		intent.putExtra(Intent.EXTRA_SUBJECT, "My list of todos!");

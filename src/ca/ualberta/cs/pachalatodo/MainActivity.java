@@ -49,6 +49,7 @@ public class MainActivity extends ListActivity
 		setCheckedItems();
 		// The following item long click listener code was adapted from
 		// http://stackoverflow.com/questions/8846707/how-to-implement-a-long-click-listener-on-a-listview
+		// by Dinesh Sharma
 	    listView.setOnItemLongClickListener(new OnItemLongClickListener() 
 	    {
 
