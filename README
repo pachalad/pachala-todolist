@@ -1,0 +1,37 @@
+Copyright [2014] [Dominik Pachala]
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+The app is a basic todolist app. The user can create new todos, archive 
+them,delete them, email them, mark them as done or undone. It also provides 
+stats on your items.
+
+Sweet citations! They're in the code but heres a summary!
+
+The itemlistmanager and itemlist controller names were inspired by Abram Hindle's studentpicker names.
+
+The itemlongclick method from mainactivity and archiveactivity was adapted from 
+http://stackoverflow.com/questions/8846707/how-to-implement-a-long-click-listener-on-a-listview
+
+The dialog and any other dialog buttons were adapted from
+http://developer.android.com/guide/topics/ui/dialogs.html
+
+The actionbars and other action bars were adapted from
+Code taken and modified from https://developer.android.com/training/basics/actionbar/adding-buttons.html
+
+Setting up the intents to send to an email app from the emailactivity was adapted from
+http://stackoverflow.com/questions/2197741/how-can-i-send-emails-from-my-android-application
+
+The saving and loading from a file. The template and methods was used from
+http://developer.android.com/training/basics/data-storage/files.html
+

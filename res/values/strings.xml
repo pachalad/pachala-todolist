@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">pachala-notes</string>
+    <string name="action_settings">Settings</string>
+    <string name="sendToAddButton">Add a new todo item</string>
+    <string name="title_activity_add_item">AddItem</string>
+    <string name="addButton">Add</string>
+    <string name="addNewItemText">Enter your new todo item</string>
+    <string name="archive">Archive</string>
+    <string name="email">Email</string>
+    <string name="stats">Stats</string>
+    <string name="title_activity_archive">Archive</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="todo">Todo</string>
+    <string name="title_activity_stat">Stat</string>
+    <string name="Total">Total Count :</string>
+    <string name="Todo_Total">Todo Total Count :</string>
+    <string name="Todo_Total_Checked">Todo Total Checked Count :</string>
+    <string name="Todo_Total_Unchecked">Todo Total Unchecked Count :</string>
+    <string name="Archive_Total">Archive Total Count :</string>
+    <string name="Archive_Total_Checked">Archive Total Checked Count :</string>
+    <string name="Archive_Total_Unchecked">Archive Total Unchecked Count :</string>
+    <string name="title_activity_email">Email</string>
+    <string name="action_select_all">Select All</string>
+    <string name="action_select_todo">Select Todo</string>
+    <string name="action_select_archive">Select Archive</string>
+    <string name="select">Select...</string>
+
+</resources>

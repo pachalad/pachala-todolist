@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+	<item 
+	    android:id="@+id/action_archive" 
+	    android:title="@string/archive"
+	    android:showAsAction="withText|ifRoom"/>
+	<item 
+	    android:id="@+id/action_email" 
+	    android:title="@string/email"
+	    android:showAsAction="withText|ifRoom"/>
+	<item 
+	    android:id="@+id/action_stats" 
+	    android:title="@string/stats"
+	    android:showAsAction="withText|ifRoom"/>
+
+</menu>
